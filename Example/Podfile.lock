@@ -1,0 +1,16 @@
+PODS:
+  - PrivateLibraryRepo (0.1.0)
+
+DEPENDENCIES:
+  - PrivateLibraryRepo (from `../`)
+
+EXTERNAL SOURCES:
+  PrivateLibraryRepo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrivateLibraryRepo: 892b0d747d897c27ec82efcd4f922c7570009bbe
+
+PODFILE CHECKSUM: c1ede88dc1dc2504ae67ccf15afdebf116358d18
+
+COCOAPODS: 1.5.0
